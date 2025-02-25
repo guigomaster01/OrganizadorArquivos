@@ -7,8 +7,16 @@
  Foi criado uma janela utilizando customtkinter para melhor experiência do usuário afim de não utilizar a aplicação por rodar via terminal
  Adicionado um botão para o usuário procurar a pasta que ele quer organizar
 
+## Screenshots
+
+![Dark Mode](https://snipboard.io/xNM685.jpg)
+
+![Light Mode](https://snipboard.io/r3gn0Y.jpg)
+
+
 ## Funcionalidades
 
+- Modo escuro/claro conforme o tema do sistema 
 - Tema amigavel
 - Preview em tempo real
 - Modo tela cheia
